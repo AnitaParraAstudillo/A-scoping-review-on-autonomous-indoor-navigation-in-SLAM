@@ -16,12 +16,6 @@ We followed the **PRISMA-ScR** (Preferred Reporting Items for Systematic reviews
 * **Timeframe:** 2016 - 2025.
 * **Keywords:** SLAM, Indoor Navigation, Autonomous Robots, Lidar, Visual SLAM.
 
-## 📝 Citation
-
-If you use the data or findings from this repository, please cite our paper:
-
-> [Apellido, Nombre], et al. "Title of your Paper". *Journal Name*, 2026. DOI: [Insertar DOI aquí cuando lo tengas]
-
 ## 👥 Authors
 
 * **Ana Parra-Astudillo** - *Universidad Politécnica Salesiana (UPS), Universitat de les Illes Balears*
